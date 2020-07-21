@@ -1,7 +1,7 @@
 SublimeLinter-contrib-xvhdl
 ================================
 
-[![Build Status](https://travis-ci.org/BrunoJJE/SublimeLinter-contrib-xvhdl.svg?branch=master)](https://travis-ci.org/BrunoJJE/SublimeLinter-contrib-xvhdl)
+Improvement from https://github.com/BrunoJJE/SublimeLinter-contrib-xvhdl, adapted to work with multiple files and a more flexible approach using batch file.
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [xvhdl (from Xilinx Vivado Simulator)](http://www.xilinx.com/products/design-tools/vivado.html). It will be used with files that have the “VHDL” syntax.
 
